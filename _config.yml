@@ -1,5 +1,5 @@
 # main text of home
-title: John Doe
+title: {{ site.url }}
 bio: 내 사이트에 오신 것을 환영합니다. 이것은 SEO 친화적인 웹페이지의 예입니다.
 
 # twitter summary info
